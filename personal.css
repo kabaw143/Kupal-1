@@ -1,0 +1,39 @@
+h2, h3{
+    font-family: cursive;
+    background-color: brown;
+    color: pink;
+}
+h1{
+    font-size: 20;
+    color: black;
+    text-align: center;
+    font-family: times;
+    background-color: ;
+}
+img{
+    width:150px;
+    height:150px;
+    border-radius: 200%;
+    object-fit: ;
+    border: 300;
+    
+    
+}
+p{
+    font-family: times;
+    color: black;
+}       
+body{
+    background: url('sun.jpg');
+    margin:px;
+    
+    
+}
+li{
+    font-style: italic;
+    color: black;
+}
+section{
+    background-color:;  
+
+}
